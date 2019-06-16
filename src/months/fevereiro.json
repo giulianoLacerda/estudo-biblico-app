@@ -1,0 +1,28 @@
+{
+    "days":[
+       {
+            "day":1,
+            "books": ["Êxodo"],
+            "title": "O Tabernáculo e os Seus Serviços",
+            "caps":[
+                [38,39,40]
+            ]
+       },
+       {
+            "day":2,
+            "books": ["Levítico"],
+            "title": "O Tabernáculo e os Seus Serviços 2",
+            "caps":[
+                [1,2,3,4,5,6,7]
+            ]
+        },
+        {
+            "day":3,
+            "books": ["Levítico"],
+            "title": "O Pecado de Nadab e Abiú",
+            "caps":[
+                [8,9,10,11]
+            ]
+        }
+    ]
+ }

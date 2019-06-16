@@ -1,0 +1,29 @@
+{
+    "days":[
+       {
+            "day":1,
+            "books": ["Salmos"],
+            "title": "Prefácio",
+            "caps":[
+                [1,2]
+            ]
+       },
+       {
+            "day":2,
+            "books": ["Salmos"],
+            "title": "Por que foi permitido o pecado?",
+            "caps":[
+                [4,5,6]
+            ]
+        },
+        {
+            "day":3,
+            "books": ["Salmos", "Gênesis"],
+            "title": "A Criação",
+            "caps":[
+                [7,8],
+                [1]
+            ]
+        }
+    ]
+ }
